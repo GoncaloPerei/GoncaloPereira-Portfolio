@@ -636,15 +636,16 @@ section{
         display: flex;
         align-items: center;
         justify-content: center;
+        width: fit-content;
         h1 {
-            width: 4.2em;
+            width: fit-content;
             text-align: center;
             font-size: 86px;
             font-weight: 900;
             background-color: #6266F4;
             color: #000000;
             display: block;
-            padding: .1em;
+            padding: .3em;
         }
         
         h1:nth-child(2) {
